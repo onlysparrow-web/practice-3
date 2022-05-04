@@ -1,0 +1,134 @@
+* {
+  font-family: "Montserrat";
+}
+.container {
+  width: 905px;
+  margin-left: auto;
+  margin-right: auto;
+  /*
+text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: white;
+  text-decoration-thickness: 1px;*/
+}
+.leftside {
+  font-size: 15px;
+  float: left;
+  width: 210px;
+  height: 1230px;
+  margin-top: -6px;
+  padding: 36px 45px;
+  background-color: #333333;
+  margin-top: -13px;
+  color: white;
+}
+#main-title {
+  text-align: center;
+  color: #49add4;
+}
+.protitle {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 500;
+  padding-top: 2px;
+}
+#navigation {
+  padding-top: 0px;
+  line-height: 36px;
+  font-size: 14px;
+}
+#navigation a:link {
+  text-decoration: none;
+  color: white;
+}
+#navigation i {
+  font-size: 10px;
+}
+.summary h2 {
+  padding-top: 39px;
+  font-size: 15px;
+  border-bottom: 2px solid;
+  text-transform: uppercase;
+}
+.summary p {
+  padding-top: 7px;
+  font-size: 12px;
+  line-height: 24px;
+  padding-bottom: 66px;
+}
+.summary ul {
+  list-style-type: none;
+  padding-top: 7px;
+  padding-left: 0px;
+  padding-bottom: 227px;
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.tech h2 {
+  font-size: 16px;
+  border-bottom: 2px solid;
+}
+.tech p {
+  font-size: 11px;
+  line-height: 15px;
+  padding-top: 12px;
+}
+.tech ul {
+  padding-left: 14px;
+  padding-top: 6px;
+  line-height: 44px;
+  font-size: 12px;
+}
+.rightside {
+  margin-left: 789px;
+  margin-right: 493px;
+  height: 1268px;
+  padding-left: 19px;
+}
+.projext h2 {
+  border-bottom: 2px solid;
+  font-size: 17px;
+  padding-top: 43px;
+  padding-left: 28px;
+}
+.projext li {
+  font-size: 15px;
+  line-height: 19px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+.cont h2 {
+  border-bottom: 2px solid;
+  font-size: 15px;
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.cont .para {
+  font-size: 13px;
+  padding-left: 24px;
+  margin-top: -12px;
+  font-weight: bold;
+  line-height: 42px;
+  color: #49add4;
+}
+.cont .para1 {
+  font-size: 14px;
+  line-height: 51px;
+  padding-left: 388px;
+  margin-top: -111px;
+  font-weight: bold;
+}
+.paragraph {
+  font-size: 11px;
+  padding-left: 25px;
+  margin-top: -7px;
+  padding-bottom: 6px;
+}
+.cont li {
+  font-size: 12px;
+  line-height: 23px;
+  padding: 0px 10px;
+  font-style: italic;
+}
