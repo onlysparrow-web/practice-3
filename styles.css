@@ -141,3 +141,25 @@ text-decoration-line: underline;
   padding: 0px 10px;
   font-style: italic;
 }
+.educate h2 {
+  font-size: 15px;
+  padding-top: 25px;
+  padding-left: 24px;
+}
+table,
+th,
+td,
+tr {
+  border: 1px solid;
+  width: 50%;
+}
+.table {
+  margin-left: 50px;
+  padding-top: 10px;
+}
+th {
+  padding: 0px 0px;
+}
+td {
+  padding: 0px 0px;
+}
