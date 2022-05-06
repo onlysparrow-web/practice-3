@@ -1,8 +1,8 @@
 * {
-  font-family: "Montserrat";
+  font-family: "open sans";
 }
 .container {
-  width: 905px;
+  width: 904px;
   margin-left: auto;
   margin-right: auto;
   /*
@@ -16,8 +16,8 @@ text-decoration-line: underline;
   float: left;
   width: 210px;
   height: 1230px;
-  margin-top: -6px;
-  padding: 36px 45px;
+  margin-top: 20px;
+  padding: 2px 45px;
   background-color: #333333;
   margin-top: -13px;
   color: white;
@@ -28,13 +28,13 @@ text-decoration-line: underline;
   font-weight: 400;
 }
 .protitle {
-  font-size: 16px;
+  font-size: 17px;
   text-align: center;
-  font-weight: 500;
+  font-weight: 200;
   padding-top: 2px;
 }
 #navigation {
-  padding-top: 0px;
+  margin-top: -3px;
   line-height: 36px;
   font-size: 14px;
 }
@@ -46,21 +46,22 @@ text-decoration-line: underline;
   font-size: 10px;
 }
 .summary h2 {
-  padding-top: 37px;
-  font-size: 15px;
+  padding-top: 36px;
+  font-size: 16px;
   border-bottom: 2px solid;
+  width: 210px;
   text-transform: uppercase;
 }
 .summary h3 {
-  padding-top: 20px;
-  font-size: 15px;
+  padding-top: 41px;
+  font-size: 16px;
   border-bottom: 2px solid;
   text-transform: uppercase;
 }
 
 .summary p {
-  margin-top: 5px;
-  font-size: 12px;
+  margin-top: 4px;
+  font-size: 11px;
   line-height: 24px;
   display: inline-block;
 }
@@ -68,13 +69,14 @@ text-decoration-line: underline;
   list-style-type: none;
   padding-top: 3px;
   padding-left: 0px;
-  padding-bottom: 156px;
-  font-size: 12px;
+  padding-bottom: 172px;
+  font-size: 11px;
   line-height: 24px;
   font-weight: 600;
 }
 .tech h2 {
-  font-size: 16px;
+  font-size: 17px;
+  width: 210px;
   border-bottom: 2px solid;
 }
 .tech p {
@@ -84,7 +86,7 @@ text-decoration-line: underline;
 }
 .tech ul {
   padding-left: 14px;
-  padding-top: 5px;
+  padding-top: 0px;
   line-height: 38px;
   font-size: 12px;
 }
@@ -97,9 +99,10 @@ text-decoration-line: underline;
 }
 .projext h2 {
   border-bottom: 2px solid;
-  font-size: 17px;
-  padding-top: 43px;
-  padding-left: 28px;
+  width: 522px;
+  margin-right: 40px;
+  font-size: 16px;
+  padding-top: 12px;
 }
 .projext li {
   font-size: 12px;
@@ -109,42 +112,46 @@ text-decoration-line: underline;
 }
 .cont h2 {
   border-bottom: 2px solid;
-  font-size: 15px;
-  padding-left: 25px;
-  padding-top: 10px;
-  padding-bottom: 5px;
+  width: 522px;
+  margin-right: 40px;
+  font-size: 17px;
+  padding-top: 7px;
 }
 .cont .para {
   font-size: 13px;
-  padding-left: 24px;
-  margin-top: -16px;
+  padding-left: 19px;
+  margin-top: -10px;
   font-weight: bold;
-  line-height: 42px;
+  line-height: 40px;
   color: #49add4;
 }
 .cont .para1 {
   font-size: 14px;
-  line-height: 51px;
+  line-height: 54px;
   padding-left: 388px;
-  margin-top: -111px;
+  margin-top: -113px;
   font-weight: bold;
 }
 .paragraph {
   font-size: 11px;
   padding-left: 25px;
-  margin-top: -7px;
-  padding-bottom: 6px;
+  margin-top: -9px;
+  padding-bottom: 3px;
 }
 .cont li {
   font-size: 12px;
   line-height: 23px;
-  padding: 0px 10px;
+  margin-left: -5px;
+  padding-right: 30px;
   font-style: italic;
 }
 .educate h2 {
   font-size: 15px;
+  width: 522px;
+  margin-right: 40px;
+
+  border-bottom: 2px solid;
   padding-top: 25px;
-  padding-left: 24px;
 }
 table,
 th,
